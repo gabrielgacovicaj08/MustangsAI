@@ -1,4 +1,4 @@
-# MustangsAI
+# MustangsAI - Gabriel Gacovicaj and Brett Mitchell
 
 https://youtu.be/qAiIlYdZ-lc
 
