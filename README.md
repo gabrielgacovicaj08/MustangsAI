@@ -6,4 +6,6 @@ The RAG approach integrates two main components: a retrieval module, which effic
 Methodologically, we preprocess publicly sourced data for the external knowledge base using vector embeddings, enabling the system to perform semantic similarity searches. The generated output is then tailored by GPT, drawing upon retrieved content to produce relevant responses.
 Preliminary findings indicate that the RAG model produces highly accurate, relevant, and efficient results. We anticipate that this RAG-based solution will improve information accessibility for current and prospective students, providing them with answers to university-specific questions with a higher degree of efficiency and simplification.
 
+![Screenshot 2024-11-13 170932](https://github.com/user-attachments/assets/2890bd35-e81a-4a27-81ff-14c71a65088b)
+
 ![MustangsAI_screenshot](https://github.com/user-attachments/assets/336878c8-84c9-4440-bc25-ab11e18bb384)
