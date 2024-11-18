@@ -1,6 +1,6 @@
 # MustangsAI - Gabriel Gacovicaj and Brett Mitchell
 
-https://youtu.be/qAiIlYdZ-lc
+3 Minute Summary: https://youtu.be/qAiIlYdZ-lc
 
 Accessing university-specific information currently requires manual navigation through the university’s website—a time-consuming and cumbersome process, especially for new and prospective students. The purpose of this research is to leverage Large Language Models (LLMs) to develop a Retrieval-Augmented Generation (RAG) system that dynamically responds to user queries about Midwestern State University (MSU) by drawing upon a specialized knowledge base containing MSU-specific information. To do so, we develop a ChatGPT-inspired website tailored specifically to MSU, enabling rapid and accurate responses to frequently asked questions regarding university policies, D2L, academic departments, in-person/online university resources, and program offerings by employing an advanced natural language processing framework. 
 
